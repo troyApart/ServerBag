@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServerBag</string>
+    <string name="action_settings">Settings</string>
+    <string name="data_clear">Remove All Entries</string>
+    <string name="email_report">Email Report</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="sales_report_name">Sales Report</string>
+    <string-array name="drawer_list">
+        <item>ServerBag</item>
+        <item>Sales Report</item>
+    </string-array>
+
+</resources>
